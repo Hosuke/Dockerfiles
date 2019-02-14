@@ -1,3 +1,7 @@
+#  Modified by Huang Geyang
+#  Docker Hub ID: yomeo
+#  Date: 2019-02-13
+
 #
 #  Author: Hari Sekhon
 #  Date: 2016-01-16 12:21:15 +0000 (Sat, 16 Jan 2016)
@@ -11,7 +15,7 @@
 #  https://www.linkedin.com/in/harisekhon
 #
 
-REPO := harisekhon/h2o
+REPO := yomeo/h2o
 
 include ../Makefile.in
 

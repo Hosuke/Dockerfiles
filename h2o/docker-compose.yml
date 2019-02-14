@@ -1,5 +1,11 @@
 #  vim:ts=2:sts=2:sw=2:et
 #
+
+#  Modified by Huang Geyang
+#  Docker Hub ID: yomeo
+#  Date: 2019-02-13
+
+
 #  Author: Hari Sekhon
 #  Date: 2016-12-09 18:51:03 +0000 (Fri, 09 Dec 2016)
 #
@@ -15,6 +21,6 @@
 version: '2.1'
 services:
   h2o:
-    image: harisekhon/h2o:${VERSION:-latest}
+    image: yomeo/h2o:${VERSION:-latest}
     ports:
       - 54321:54321
